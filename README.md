@@ -1,5 +1,5 @@
 # rocketseat-explorer-stage-09-projeto-01
-Projeto do Programa Explorer - Rocketseat
+Projeto feito utilizando React - Programa Explorer da Rocketseat
 
 
 ![SignIn](https://user-images.githubusercontent.com/84917784/212566872-ebf66605-7765-419a-be1d-da80dc7720ce.jpg)
